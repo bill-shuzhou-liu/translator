@@ -1,4 +1,4 @@
-The python code to auto detect the language and transalte it to English
+Auto detect the language and transalte it to another language
 
 # install
 ```
