@@ -1,0 +1,19 @@
+[project]
+name = "auto_translator"
+version = "0.0.1"
+description = "Auto detect lanauge and translate to English"
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = [
+  "requests",
+  "translators"
+]
+
+[project.urls]
+Homepage = "https://github.com/bill-shuzhou-liu/translator"
+Issues = "https://github.com/bill-shuzhou-liu/translator/issues"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
