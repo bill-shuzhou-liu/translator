@@ -1,4 +1,4 @@
-Auto detect the language and transalte it to another language
+Auto detect the language and translate it to another language
 
 # install
 ```
